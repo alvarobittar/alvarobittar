@@ -28,6 +28,6 @@
 ### Contact Me
 <a href="alvarobittar19950@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-alvarobittar19950@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=alvarobittarshow_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="alvaribittar" /> </p>

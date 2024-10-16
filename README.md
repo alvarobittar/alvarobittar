@@ -1,5 +1,5 @@
 <h1>Hello! I'm Alvaro Bittar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨 and Content Creator 📽</h2>
+<h2>Student👨‍🎓</h2>
 
 ### About Me
 - I am 21 years old and I am a 4th-year student of Computer Engineering at the University of Mendoza.

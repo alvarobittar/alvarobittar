@@ -3,7 +3,6 @@
 
 ### About Me
 - I am 21 years old and I am a 4th-year student of Computer Engineering at the University of Mendoza.
-- I am a MERN and PERN full stack developer who seeks to keep improving the technologies I know.
 - I am a self-taught and highly creative individual who aims to learn and improve every day.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 

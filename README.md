@@ -21,6 +21,8 @@
 <br/>
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/docker-0db7f5?style=flat&logo=docker&logoColor=white)
+
 
 
 

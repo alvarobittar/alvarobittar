@@ -30,4 +30,7 @@
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=alvarobittar&show_icons=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="alvaribittar" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=alvarobittar&label=Profile%20views&color=0e75b6&style=flat" alt="alvarobittar" /> 
+</p>
+

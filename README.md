@@ -2,9 +2,11 @@
 <h2>Student👨‍🎓</h2>
 
 ### About Me
-- I am 22 years old and I am a 5th-year student of Computer Engineering at the University of Mendoza.
-- I am a self-taught and highly creative individual who aims to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+
+- I am a final-year Computer Engineering student at the University of Mendoza, focusing on building high-impact software solutions.
+- I am a self-taught and highly creative individual driven by continuous learning and everyday technical improvement.
+- I specialize in developing intuitive frontend interfaces, ensuring the ultimate visual and seamless experience for the users visiting my projects.
+
 
 
 ### Technologies
